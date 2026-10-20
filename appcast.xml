@@ -3,13 +3,13 @@
     <channel>
         <title>Quarry</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 23 Sep 2026 16:17:43 +0200</pubDate>
-            <sparkle:version>1.0.1.117</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Tue, 20 Oct 2026 07:45:28 +0200</pubDate>
+            <sparkle:version>1.1.0.130</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sebsjoqvist/Quarry-release/releases/download/v1.0.1/Quarry-1.0.1.dmg" length="4014073" type="application/octet-stream" sparkle:edSignature="76e8kA2DI3KXPKvURKFMysVIpN2VdkrXHywySvLDqwfg+0Wtap7PNWQZBNLjYIDHlvVaq0WvXjIGIrYSXluVBA=="/>
+            <enclosure url="https://github.com/sebsjoqvist/Quarry-release/releases/download/v1.1.0/Quarry-1.1.0.dmg" length="4109467" type="application/octet-stream" sparkle:edSignature="UHHsJr/hcSeGFcIpcq4a9WcTxwRcZGkAWINmtfh4MOh/BOf09UHIdnGkYeQ3y1jG0gTRsPepKFQJ+K9iRRo0Bw=="/>
         </item>
     </channel>
 </rss>
